@@ -1,6 +1,10 @@
 
 # Health-Insurance-Cross-Sell-Prediction
 
+
+![image](https://user-images.githubusercontent.com/125804537/226084035-86a72bdb-a64b-4cd4-b10b-81e56acdcc41.png)
+
+
 ## Problem statement
 
 Our client is an Insurance company that has provided Health Insurance to its customers now they need your help in building a model to predict whether the policyholders (customers) from the past year will also be interested in Vehicle Insurance provided by the company. An insurance policy is an arrangement by which a company undertakes to provide a guarantee of compensation for specified loss, damage, illness, or death in return for the payment of a specified premium. A premium is a sum of money that the customer needs to pay regularly to an insurance company for this guarantee.
