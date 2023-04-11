@@ -1,8 +1,10 @@
 
 # Health-Insurance-Cross-Sell-Prediction
 
+## Tableau
+![Alt text](https://raw.githubusercontent.com/raviatkumar/Health-Insurance-Cross-Sell-Prediction/main/Image/health_tableau.PNG)
 
-![image](https://user-images.githubusercontent.com/125804537/226084035-86a72bdb-a64b-4cd4-b10b-81e56acdcc41.png)
+## Link:https:https://public.tableau.com/views/ravikumarHealth-Insurance-Cross-Sell-Prediction/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
 ## Problem statement
@@ -17,6 +19,7 @@ Building a model to predict whether a customer would be interested in Vehicle In
 
 Now, in order to predict whether the customer would be interested in Vehicle insurance, you have information about demographics (gender, age, region code type), Vehicles (Vehicle Age, Damage), Policy (Premium, sourcing channel), etc.
 
+![image](https://user-images.githubusercontent.com/125804537/226084035-86a72bdb-a64b-4cd4-b10b-81e56acdcc41.png)
 
 ## Data Description
 
