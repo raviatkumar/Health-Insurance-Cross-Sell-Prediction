@@ -2,7 +2,7 @@
 # Health-Insurance-Cross-Sell-Prediction
 
 ## Tableau
-![Alt text](https://raw.githubusercontent.com/raviatkumar/Health-Insurance-Cross-Sell-Prediction/main/Image/health_tableau.PNG)
+![Alt text](https://raw.githubusercontent.com/raviatkumar/Health-Insurance-Cross-Sell-Prediction/main/Image/tableauhealth.PNG)
 
 ## Link:https:https://public.tableau.com/views/ravikumarHealth-Insurance-Cross-Sell-Prediction/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
